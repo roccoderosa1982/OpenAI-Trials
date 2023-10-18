@@ -1,2 +1,2 @@
 # OpenAI-Trials
-play with openSI
+play with openAI
